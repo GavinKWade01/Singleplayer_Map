@@ -1,3 +1,3 @@
-# Singleplayer_Map
+# Valley of Kings 
 
-It's okay we all play alone sometimes. (Change this)
+Valley of Kings is a singleplayer Quake map. This map was inspired by the Valley of the Kings in Egypt. 
